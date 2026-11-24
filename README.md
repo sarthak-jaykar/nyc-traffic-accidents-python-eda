@@ -153,4 +153,4 @@ Results are written to `results/` and charts to `screenshots/`. Full steps are i
 
 ## Author
 
-[Sarthak Jaykar](https://www.linkedin.com/in/sarthak-jaykar/)
+[GitHub](https://github.com/sarthak-jaykar) · [LinkedIn](https://www.linkedin.com/in/sarthak-jaykar/)
