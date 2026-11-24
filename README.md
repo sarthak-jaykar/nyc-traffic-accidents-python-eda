@@ -135,7 +135,7 @@ nyc-traffic-accidents-python/
 pip install -r requirements.txt
 ```
 
-1. Place `NYC Accidents 2020.csv` in `data/` and rename it to `nyc_accidents_2020.csv`.
+1. The source dataset is already included at `data/nyc_accidents_2020.csv`; no download or rename is needed.
 2. Run the full pipeline:
 
 ```bash
