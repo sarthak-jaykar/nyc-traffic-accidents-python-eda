@@ -8,11 +8,11 @@ Tools: Python 3.10 or later, VS Code (Windows). Time: about 20 to 30 minutes.
       pip install -r requirements.txt
    The .venv folder is created on your own machine. Do not add it to the repository.
 
-2. DATA FILE (place in the data/ folder of this project)
-The original dataset is included in `data/nyc_accidents_2020.csv`. No separate download is required for this repository copy. The pipeline reads the source file from `data/`.
+2. DATA FILE
+The source dataset is already included at `data/nyc_accidents_2020.csv`. No download, rename or replacement is required.
 
-   Original file name            Name to use                 Expected rows
-   NYC Accidents 2020.csv        nyc_accidents_2020.csv      74,881
+   Included file                 Expected rows
+   nyc_accidents_2020.csv        74,881
 
 3. RUN THE PIPELINE
    python script\run_all.py
